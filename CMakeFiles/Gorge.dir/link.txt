@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Gorge.dir/src/main.cpp.o  -o Gorge 

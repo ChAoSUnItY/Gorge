@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chaos-unity/桌面/projects/gorge/include/report.hpp
+string
+-
+memory
+-
+vector
+-
+optional
+-
+span.hpp
+/home/chaos-unity/桌面/projects/gorge/include/span.hpp
+
+/home/chaos-unity/桌面/projects/gorge/include/span.hpp
+string
+-
+memory
+-
+
+/home/chaos-unity/桌面/projects/gorge/src/main.cpp
+iostream
+-
+../include/span.hpp
+/home/chaos-unity/桌面/projects/gorge/include/span.hpp
+../include/report.hpp
+/home/chaos-unity/桌面/projects/gorge/include/report.hpp
+

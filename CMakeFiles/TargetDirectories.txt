@@ -1,0 +1,6 @@
+/home/chaos-unity/桌面/projects/gorge/CMakeFiles/rebuild_cache.dir
+/home/chaos-unity/桌面/projects/gorge/CMakeFiles/edit_cache.dir
+/home/chaos-unity/桌面/projects/gorge/CMakeFiles/Gorge.dir
+/home/chaos-unity/桌面/projects/gorge/fmt/CMakeFiles/edit_cache.dir
+/home/chaos-unity/桌面/projects/gorge/fmt/CMakeFiles/rebuild_cache.dir
+/home/chaos-unity/桌面/projects/gorge/fmt/CMakeFiles/fmt.dir
